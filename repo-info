@@ -1,0 +1,6 @@
+commit-sha-1: 821273ca0472c5eb15cf1a4bf65781abe43090bb
+commit-short: 821273c
+branch: arches-1705a
+remote: https://github.com/openstack-charmers/openstack-bundles
+info-generated: Wed Sep 13 22:08:03 UTC 2017
+note: This file should exist only in a built or released bundle artifact (not in the bundle source code tree).
